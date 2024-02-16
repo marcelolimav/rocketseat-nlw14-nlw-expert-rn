@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#610519",
+        "titleBar.activeBackground": "#870624",
+        "titleBar.activeForeground": "#FFFBFC"
+    },
+    "cSpell.words": [
+        "clsx",
+        "tailwindcss",
+        "zustand"
+    ]
+}
